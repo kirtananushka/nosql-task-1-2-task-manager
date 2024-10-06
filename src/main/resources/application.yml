@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27019
+      database: task_manager_db
+      username: task_app_user
+      password: pwd
+
+#  mongodb://task_app_user:pwd@localhost:27019/task_manager_db
